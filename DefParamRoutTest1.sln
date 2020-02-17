@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiParamsTest", "MultiPar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstraintRouteTest", "ConstraintRouteTest\ConstraintRouteTest.csproj", "{D9BDCD11-8DB5-4F9D-B896-E7AE259B3078}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpRequestTypeTest", "HttpRequestTypeTest\HttpRequestTypeTest.csproj", "{F3EC89FE-ED6C-43A1-983C-0D738E63D2B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D9BDCD11-8DB5-4F9D-B896-E7AE259B3078}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9BDCD11-8DB5-4F9D-B896-E7AE259B3078}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9BDCD11-8DB5-4F9D-B896-E7AE259B3078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3EC89FE-ED6C-43A1-983C-0D738E63D2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EC89FE-ED6C-43A1-983C-0D738E63D2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EC89FE-ED6C-43A1-983C-0D738E63D2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EC89FE-ED6C-43A1-983C-0D738E63D2B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
