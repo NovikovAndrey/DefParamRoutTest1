@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefParamRoutTest1", "DefPar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalParamTest", "OptionalParamTest\OptionalParamTest.csproj", "{2E81A6D0-73E8-4512-94A7-3AF061D521A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiParamsTest", "MultiParamsTest\MultiParamsTest.csproj", "{9F99AD94-BE89-48FB-A87B-4517DF835D9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2E81A6D0-73E8-4512-94A7-3AF061D521A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E81A6D0-73E8-4512-94A7-3AF061D521A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E81A6D0-73E8-4512-94A7-3AF061D521A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F99AD94-BE89-48FB-A87B-4517DF835D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F99AD94-BE89-48FB-A87B-4517DF835D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F99AD94-BE89-48FB-A87B-4517DF835D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F99AD94-BE89-48FB-A87B-4517DF835D9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
